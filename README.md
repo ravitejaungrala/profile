@@ -211,7 +211,7 @@
 
     <footer>
         <p>RAVITEJA UNGARALA</p>
-        <a  href="https://www.linkedin.com/in/ungarala-naga-venkata-raviteja-8b1342237/"  target="_blank" <i class="bi bi-linkedin"></i></a>
+        <a  href="https://www.linkedin.com/in/ungarala-naga-venkata-raviteja-8b1342237"  target="_blank" <i class="bi bi-linkedin"></i></a>
              <a href="https://api.whatsapp.com/send?phone=7013666788" target="_blank" <i class="bi bi-whatsapp"></i></a>
              <a href="https://www.instagram.com/insane_soul_ravi_teja/" target="_blank"><i class="bi bi-instagram"></i></a>
              
